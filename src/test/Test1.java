@@ -11,6 +11,6 @@ public class Test1 {
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();
         System.out.println(a);
-       // System.out.println("Hello World!");
+        System.out.println("Hello World!");
     }
 }
