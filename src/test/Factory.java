@@ -20,8 +20,13 @@ public class Factory {
     public static void main(String[] args) {
         Map map =new HashMap();
         map.put("a",true);
+
+
         if ((Boolean) map.get("a")){
             System.out.println("fdddddddd");
+
+
+
         }
     }
 
